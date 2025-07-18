@@ -75,4 +75,4 @@ g++ main.o example.o -o my_program
 See also:
 - [[C++]]
 - [[Namespaces]]
-- [[Compilation in C++]]
+- [[C++ Compilation]]

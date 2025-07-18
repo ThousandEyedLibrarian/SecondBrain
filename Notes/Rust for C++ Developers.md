@@ -279,7 +279,7 @@ impl Drop for ResourceHandler {
    x = 6; // Only works because x is mut
    ```
 
-2. **[[Move Semantics in C++]] vs Rust Semantics**
+2. **[[C++ Move Semantics]] vs Rust Semantics**
    ```rust
    let s1 = String::from("hello");
    let s2 = s1; // s1 is moved, can't use it anymore

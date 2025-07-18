@@ -1,5 +1,3 @@
-# The Layout of a [[C++]] Program
-
 	int main() {}
 	
 The basic start of a C++ program is defining the main function that is always called, the rest of the program goes in the curly braces.

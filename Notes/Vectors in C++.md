@@ -1,6 +1,0 @@
-
-
-
-
-See also:
-- [[Vectors]]

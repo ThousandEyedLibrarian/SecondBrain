@@ -46,7 +46,7 @@ Basically, the rule claims that if one of these had to be defined by you then th
 
 Sometimes broadened to the rule of five, this is simply the rule above but including the move constructor and move assignment operator.
 
-Modern [[C++]] introduces [[Move Semantics in C++]], which allows for more efficient handling of resources by transferring ownership without necessarily copying all the data.
+Modern [[C++]] introduces [[C++ Move Semantics]], which allows for more efficient handling of resources by transferring ownership without necessarily copying all the data.
 
 _Example:_
 

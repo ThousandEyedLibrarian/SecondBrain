@@ -112,5 +112,5 @@ ELF does use the trick from [[QMAGIC]] of including the header  in the `.text` s
 ## [[Symbol Management]]
 
 See also:
-- [[Compilation in C++]]
+- [[C++ Compilation]]
 - *Linkers & Loaders* by John R. Levine

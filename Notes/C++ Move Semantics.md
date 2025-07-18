@@ -1,5 +1,3 @@
-# Move Semantics in C++
-
 The move method in [[C++]] allows us to sort of 'move' objects/memory rather than copying memory.
 
 		int foo(int&& i) {

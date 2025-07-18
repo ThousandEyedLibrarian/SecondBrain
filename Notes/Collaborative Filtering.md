@@ -1,6 +1,4 @@
-# Collaborative Filtering
-
-A rechnique used by recommender systems to recommend items based on other like-minded individuals, i.e by collecting preferences from many uses and assuming similar tastes based on item selection.
+A technique used by recommender systems to recommend items based on other like-minded individuals, i.e by collecting preferences from many uses and assuming similar tastes based on item selection.
 
 ## *kNN*-based Collaborative Filtering
 Finds the nearest *k* neighbours to user *x* and aggregate their ratings, predict rating on a target item based on these.
