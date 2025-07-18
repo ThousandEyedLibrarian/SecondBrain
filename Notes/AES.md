@@ -1,4 +1,2 @@
-# AES
-
-The AES is a 128bit symmetric block cipher, using some key (128, 192, or 256 bits long) to encrypt information.
+The AES is a 128bit symmetric block [[Cipher]], using some key (128, 192, or 256 [[Bit]]s long) to encrypt information.
 

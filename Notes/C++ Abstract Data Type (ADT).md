@@ -1,5 +1,3 @@
-# Abstract Data Type (ADT)
-
 A type defined in terms of its data items and operations, not its implementation.
 
 ### Data structures

@@ -1,4 +1,4 @@
-A type of [[Abstract Data Type (ADT) in C++]], and a core aspect of [[Object-Oriented Programming]], similar to [[C++ Classes]] except with public data structures by default upon initialisation.
+A type of [[C++ Abstract Data Type (ADT)]], and a core aspect of [[Object-Oriented Programming]], similar to [[C++ Classes]] except with public data structures by default upon initialisation.
 
 Example:
 ```cpp
