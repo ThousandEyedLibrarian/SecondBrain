@@ -1,5 +1,3 @@
-# Building Real Wealth
-
 ## Defining Real Wealth - Beyond Just Numbers
 
 - Financial independence: covering all basic needs without active income
@@ -99,6 +97,7 @@ I don't include real estate in the percentage calculation of investment capital 
 ### [[Real Estate]] Integration
 
 #### Investment Properties
+
 - **Benefits**
   * Rental income
   * Tax advantages
@@ -114,110 +113,15 @@ I don't include real estate in the percentage calculation of investment capital 
   * Interest rates
 
 #### [[Real Estate Investment Trusts (REIT)]] as an Alternative
+
 - Liquid exposure to real estate
 - Professional management
 - Diversified property portfolio
 - Lower capital requirement
 - Low personal maintenance
 
-## Strategic Approach
-
-### 1. Focus on Your Circle of Competence
-- **Identify Your Strengths**
-  * Professional knowledge
-  * Industry expertise
-  * Technical skills
-
-- **Expand Thoughtfully**
-  * Read extensively
-  * Take courses, if you want to dive deeper
-  * Network with experts, if you care that much and want to min-max I guess
-  * Start small and scale
-
-### 2. Time Horizon Reality
-
-#### Short Term (1-3 years)
-- Build emergency fund
-- Learn investment basics
-- Start systematic investing
-- Control spending
-
-#### Medium Term (3-7 years)
-- Portfolio diversification
-- Skill development
-- Network building
-- Asset class understanding
-
-#### Long Term (7+ years)
-- Compound growth
-- Portfolio rebalancing
-- Wealth preservation
-- Legacy planning
-
-## Implementation Strategy
-
-### 1. Getting Started
-```
-Month 1-3:
-- Set up tracking systems
-- Create emergency fund
-- Research investment options
-- Open brokerage accounts
-
-Month 4-6:
-- Begin systematic investing
-- Start with broad market ETFs
-- Learn about tax implications
-- Build investment routine
-
-Month 7-12:
-- Increase investment rate
-- Add diversifying assets
-- Review and adjust strategy
-- Network building, etc.
-```
-
-### 2. Ongoing Management
-
-- **Monthly**
-  * Review spending
-  * Check portfolio balance
-  * Make regular investments
-  * Read market updates
-
-- **Quarterly**
-  * Portfolio rebalancing
-  * Strategy review
-  * Performance analysis
-  * Goal alignment check
-
-- **Yearly**
-  * Tax planning
-  * Major strategy review
-  * Goal setting
-  * Net worth calculation
-
-#### [[Portfolio Rebalancing Automation]]
-
-## Risk Management
-
-### 1. Portfolio Protection
-- Stop-loss strategies
-- Regular rebalancing
-- Correlation analysis
-- Position sizing
-
-### 2. Life Protection
-- Income insurance
-- Health insurance
-- Emergency fund
-- Legal structures
-
-## The Scott Galloway Principle
-
-"You don't need to find the needle in the haystack when you can just buy the whole haystack"
-
 ### Application:
+
 1. **Broad Market ETFs**
    - Instant diversification
    - Low fees
@@ -230,5 +134,5 @@ Month 7-12:
    - Long-term focus
    - Reduced emotion
 
-And finally, remember: ***This takes time, a lot of fucking time***. Start as soon as you can with whatever you can.
+Remember: ***This takes time, a lot of fucking time***. Start as soon as you can with whatever you can.
 
