@@ -9,7 +9,7 @@ Callgrind is one of these tools, a [[Profiler]] specifically designed for perfor
 1. **Instrumentation**: Valgrind runs your program on a virtual [[CPU]], intercepting all instructions.
 2. **Analysis**: Callgrind tracks function calls, their timings, and the number of instructions executed.
 3. **Data Collection**: Detailed profiling information is written to a file (usually `callgrind.out.<pid>`).
-4. **Visualization**: Tools like KCachegrind can visualise the output for easier analysis.
+4. **Visualisation**: Tools like KCachegrind can visualise the output for easier analysis.
 
 ## Setting Up Valgrind and Callgrind
 

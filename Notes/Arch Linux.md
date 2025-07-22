@@ -1,0 +1,1 @@
+This system breaks more than I ever expected it to but I just can't seem to migrate away from it, every four months something seriously breaks though so setting up Timeshift for backups is mandatory for me.

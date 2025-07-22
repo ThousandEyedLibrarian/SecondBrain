@@ -1,5 +1,3 @@
-# The T Distribution
-
 When a population's [[Standard Deviation]] is unknown (most of the time it's unknown), we use a t distribution to combat against uncertainty of the standard error estimate.
 
 The shape is like a bell curve ([[Normal Distribution]]) but with thicker tails, ie it has a flatter curve with longer tail falloff.
