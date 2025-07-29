@@ -21,3 +21,5 @@ Trains [[Neural Networks (NN)]] models without labeled data by creating predicti
 - Pre-trained model transfers to epilepsy prediction
 
 The masking forces the model to understand how [[Brain]] signals evolve over time.
+
+## [[Contrastive Learning]]
