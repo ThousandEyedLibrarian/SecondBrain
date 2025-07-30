@@ -1,5 +1,13 @@
 A learned dictionary that maps continuous data to discrete representations.
 
+Given a set of bins 1-n where each bin is as discrete value representing an EEG voltage at a timestep window.
+
+Collapses model parameter input down massively from a continuous space to a discrete space.
+
+Each value in the codebook is called a "code".
+
+See: [[wav2vec 2.0 - a framework for self-supervised learning of speech representations]]
+
 ### How It Works
 
 - Model learns a finite set of "codewords" (vector representations)

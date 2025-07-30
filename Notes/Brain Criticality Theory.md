@@ -1,6 +1,6 @@
 Criticality (AKA critical phenomena or critical states) is the term which marks the transition between ordered and disordered states. 
 
-In the context of [[Neuroscience]] and [[Neurology]] brains have seemingly demonstrated optimal processing and computing properties the closer the neural network (the brain not an [[Artificial Intelligence]]) gets to criticality.
+In the context of [[Neuroscience]] and [[Neurology]] brains have seemingly demonstrated optimal processing and computing properties the closer the neural network (the brain not an [[Artificial Intelligence (AI)]]) gets to criticality.
 
 The core hypothesis of this theory is that neural networks, and therefore the [[Brain]] self-organise into a critical state, with further research seeming to demonstrate that the brain is able to maintain heightened levels of neural activity trending towards the criticality threshold in the morning which then tapers off as the day progresses (in a normal human).
 

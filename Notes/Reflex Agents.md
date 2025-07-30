@@ -9,4 +9,4 @@ Do not consider future.
 See also:
 - [[Agents]]
 - [[Machine Learning]]
-- [[Artificial Intelligence]]
+- [[Artificial Intelligence (AI)]]

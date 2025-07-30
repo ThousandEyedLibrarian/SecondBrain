@@ -45,7 +45,7 @@ Traditional computers? Not so much. They're power-hungry, mostly serial processo
 ## What's It Good For?
 
 Neuromorphic circuits could revolutionise:
-- [[Artificial Intelligence]] and [[Machine Learning]] (faster, more efficient)
+- [[Artificial Intelligence (AI)]] and [[Machine Learning]] (faster, more efficient)
 - [[Robotics]] (more adaptive, human-like responses)
 - [[Brain-Computer Interface (BCI)]] (better integration with our wetware)
 - Sensory processing (super-efficient image and speech recognition)

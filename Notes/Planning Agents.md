@@ -9,4 +9,4 @@ Must formulate a goal.
 See also:
 - [[Agents]]
 - [[Machine Learning]]
-- [[Artificial Intelligence]]
+- [[Artificial Intelligence (AI)]]
