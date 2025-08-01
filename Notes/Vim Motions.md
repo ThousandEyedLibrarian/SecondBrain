@@ -1,3 +1,15 @@
+## Core Operators
+
+| Combo    | Effect                                                       |
+| -------- | ------------------------------------------------------------ |
+| c        | Change (delete and enter insert mode)                        |
+| d        | Delete                                                       |
+| i + char | In (perform an op on everything within two of something)     |
+| a + char | Around (perform an op on everything around two of something) |
+| .        | Repeat last command                                          |
+| u        | Undo                                                         |
+| ctrl + r | Redo                                                         |
+
 ### Vertical Movement
 
 | Combo       | Effect                                           |
@@ -30,12 +42,15 @@
 
 ### Editing
 
-| Combo         | Effect                                                |
-| ------------- | ----------------------------------------------------- |
-| cmd + iw      | Execute some motion from anywhere in a word (e.g diw) |
-| m + num/char  | Set bookmark at location                              |
-| \` + num/char | Jump to bookmark                                      |
-| gv            | Highlight last selection                              |
+| Combo               | Effect                                                                      |
+| ------------------- | --------------------------------------------------------------------------- |
+| cmd + iw            | Execute some motion from anywhere in a word (e.g diw)                       |
+| m + num/char        | Set bookmark at location                                                    |
+| \` + num/char       | Jump to bookmark                                                            |
+| gv                  | Highlight last selection                                                    |
+| num + oper + motion | Perform some operator motion *num* times <br>(e.g. 3dw deletes three words) |
+
+
 
 See also:
 - [[Vim and Neovim]]
