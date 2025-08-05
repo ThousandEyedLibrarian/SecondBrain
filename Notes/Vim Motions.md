@@ -49,6 +49,7 @@
 | \` + num/char       | Jump to bookmark                                                            |
 | gv                  | Highlight last selection                                                    |
 | num + oper + motion | Perform some operator motion *num* times <br>(e.g. 3dw deletes three words) |
+| :s/x/y/gc123        | Replaces all instances of 'x' with 'y' for the next 123 lines               |
 
 
 
