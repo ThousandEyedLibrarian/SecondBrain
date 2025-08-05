@@ -2,7 +2,7 @@ A learned dictionary that maps continuous data to discrete representations.
 
 *Look, put simply, this is a fucking series of bins, which are just 1-dimensional [[Vectors]] of numerical values.*
 
-Given a set of bins 1-n where each bin is as discrete value representing an EEG voltage at a timestep window.
+Given a set of bins 1-n where each bin is a discrete value representing an EEG voltage at a timestep window.
 
 Collapses model parameter input down massively from a continuous space to a discrete space.
 
