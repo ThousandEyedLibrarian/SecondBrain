@@ -19,7 +19,7 @@ int main() {
 }
 ```
 
-## Thread with Arguments
+## [[Threads]] with Arguments
 
 You can pass arguments to the thread function by providing them as additional arguments to the `std::thread` constructor.
 
@@ -69,3 +69,5 @@ int main() {
     return 0;
 }
 ```
+
+## [[C++20 Semaphore]]s

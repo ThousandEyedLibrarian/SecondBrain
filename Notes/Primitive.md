@@ -1,0 +1,1 @@
+Another word for a fundamental data type like an int, or more exotically a fundamental library data type like a [[Mutex]] or [[C++20 Semaphore]].
