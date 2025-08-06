@@ -1,4 +1,3 @@
-Idea: Multiply A* [[Heuristic]] estimates by some factor $w ≥ 1$.
 
 Weighted A* is actually a family of related [[Algorithms]].
 - w = 0 → [[Uniform Cost Search]]
