@@ -1,11 +1,11 @@
 # A* Search
 
-A searching algorithm that combines [[Uniform Cost Search]] and [[Greedy Technique & Algorithms]]. Orders by the sum of greedy search and [[Uniform Cost Search]] (f(n) = g(n) + h(n)).
+A searching algorithm that combines [[Uniform Cost Search (UCS)]] and [[Greedy Technique & Algorithms]]. Orders by the sum of greedy search and [[Uniform Cost Search (UCS)]] (f(n) = g(n) + h(n)).
 
 ## Example: Mouse in a Maze
 
 - Imagine a mouse in a maze with cheese at some point
-- If the mouse has no sense of smell it will wander aimlessly until it encounters the cheese ([[Uniform Cost Search]])
+- If the mouse has no sense of smell it will wander aimlessly until it encounters the cheese ([[Uniform Cost Search (UCS)]])
 - If we give the mouse smell, it will be able to sense how correct a given navigation decision was based on the smell decreasing/increasing etc.
 	- This is a [[Heuristic]], it allows us to prioritise options when multiple are presented
 
@@ -46,6 +46,8 @@ Bottom line:
 - Many of the currently leading planners employ some type of A* search.
 
 ## [[Weighted A-Star Search]]
+
+## [[Time-expanded A-Star Search (TXA*)]]
 
 
 See also:

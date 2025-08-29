@@ -1,4 +1,4 @@
-A variant of [[Uniform Cost Search]] wherein a [[Heuristic]] ($h(n)$)is added based on the priority of each [[Node]] (the [[Manhattan Distance]]).
+A variant of [[Uniform Cost Search (UCS)]] wherein a [[Heuristic]] ($h(n)$)is added based on the priority of each [[Node]] (the [[Manhattan Distance]]).
 
 At each step, we expand the most promising node according to $h_M$.
 

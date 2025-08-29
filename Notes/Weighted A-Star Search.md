@@ -1,6 +1,6 @@
 
 Weighted A* is actually a family of related [[Algorithms]].
-- w = 0 → [[Uniform Cost Search]]
+- w = 0 → [[Uniform Cost Search (UCS)]]
 - w = 1 → [[A-Star Search]]
 - w = ∞ → [[Greedy Best-First Search]]
 

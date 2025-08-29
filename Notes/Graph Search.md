@@ -12,7 +12,7 @@ Relaxing a node n ∈ Open means:
 - We update the priority of n on the Open list.
 
 Advantages of Graph-Search:
-- Strong guarantees (Complete & always optimal; e.g. with [[Uniform Cost Search]])
+- Strong guarantees (Complete & always optimal; e.g. with [[Uniform Cost Search (UCS)]])
 - Fewer expansions to prove optimality.
 - Better space complexity: O(|V |) vs O(bd ) (or worse)
 
