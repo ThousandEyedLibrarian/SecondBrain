@@ -4,6 +4,12 @@ In vision, for instance, each neuron in your visual system responds to stimuli f
 
 The beauty of receptive fields is how they hierarchically stack up through the neural pathway - early sensory neurons have tiny receptive fields that detect basic features, while higher-up neurons combine these to respond to increasingly complex patterns. It's like going from pixels to portraits in your [[Brain]]'s processing pipeline.
 
+## Types
+- On-centre, off-surround: Cell responds when you turn on input (light for example) in the centre, and responds when you turn off a spot of light in the surrounding region
+- Off-centre, on-surround: Vice versa
+
+The On-Center / Off-Surround receptive field can be thought of as a filter. This filter results in more activation due to certain stimuli, and a depression in activation due to other stimuli.
+
 ## The Nitty-Gritty Details
 
 Mathematically, we can model receptive fields as spatiotemporal filters with specific response properties:

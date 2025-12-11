@@ -15,7 +15,7 @@
 4. **[[Goldman-Hodgkin-Katz (GHK) Equation]]**:
     - Calculates the resting membrane potential considering multiple ion species
     - Takes into account ion concentrations and membrane permeabilities
-5. **[[Action Potential]]**:
+5. **[[Action Potential (AP)]]**:
     - Rapid, temporary reversal of membrane potential
     - Phases: depolarisation, repolarisation, hyperpolarisation
     - All-or-nothing response

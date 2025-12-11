@@ -15,7 +15,7 @@ A BCI can:
 
 - BCIs create new [[Central Nervous System (CNS)]] outputs that are fundamentally different from natural outputs
 - BCI operation depends on the interaction of two adaptive controllers (CNS and the BCI)
-- Choosing the appropriate signal type and brain area is difficult and crucial (e.g. recording [[Action Potential]]s from one or many [[Neuron]]s)
+- Choosing the appropriate signal type and brain area is difficult and crucial (e.g. recording [[Action Potential (AP)]]s from one or many [[Neuron]]s)
 	- Cannot be done a priori, must be determined by experimentation with a user
 - Recognising and avoiding noise (artefacts) in the signal is also crucial
 	- Normally topographical and frequency analyses are used to distinguish [[Brain]] and non-brain signals, with even more precautions used for non-invasive metabolic BCI.

@@ -8,7 +8,7 @@ Measured at three scales:
 2. Meso
 3. Macro
 
-Sources of [[Current]] in the [[Cerebral Cortex (Outer Brain Sheet)]] can generate [[Action Potential]]s ([[Brain]] signals) at all three scales.
+Sources of [[Current]] in the [[Cerebral Cortex (Outer Brain Sheet)]] can generate [[Action Potential (AP)]]s ([[Brain]] signals) at all three scales.
 
 Small and intermediate scales provided by LFPs and ECoG provide more local detail but sparse spatial resolution.
 
