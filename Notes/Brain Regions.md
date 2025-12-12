@@ -1,3 +1,21 @@
+## Major Regions
+
+1. Hindbrain:
+	1. Cerebellum - see below
+	2. [[Medulla Oblongata]] - breathing, muscle tone and blood pressure
+	3. [[Pons]] - sleep and arousal
+2. Midbrain & Reticular Formation
+	1. Midbrain - eye movements, visual and auditory reflexes
+	2. Reticular Formation - muscles reflexes, breathing & pain perception, sleep, wakefulness & arousal
+3. Thalamus & Hypothalamus
+	1. Thalamus - relay station for all sensory info except smell to cortex
+	2. Hypothalamus - basic needs, fight/flee/feeding/fucking
+4. Cerebrum
+	1. [[Cerebral Cortex (Outer Brain Sheet)]]
+	2. Basal Ganglia
+	3. Hippocampus
+	4. Amygdala
+
 ### Major Divisions:
 
 1. **[[Cerebrum]]**:
@@ -55,3 +73,7 @@
 - Hippocampus: The hard drive, storing and retrieving memories
 - Amygdala: The firewall and threat detection system
 - Corpus callosum: The network switch connecting two main processing units
+
+## Neural vs. Digital Computing
+
+![[Screenshot 2025-12-12 at 16.34.49.png]]

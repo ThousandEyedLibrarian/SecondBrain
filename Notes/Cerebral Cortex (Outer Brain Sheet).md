@@ -1,3 +1,13 @@
+Convoluted surface of [[Cerebrum]], about 1/8th of an inch thick.
+
+Six layers of [[Neuron]]s and relatively uniform in structure across areas (hard to find differences between areas).
+
+Suggestion has been made that there is a common computational principle operating across the cortex but this hasn't been proven yet.
+
+#### Cross Section Output Input Diagram
+
+![[Screenshot 2025-12-12 at 16.31.46.png]]
+
 ## Primary Sensory Cortex 
 
 Divided into regions like the visual, auditory and somatosensory cortexes which all get direct input from the [[Lateral Geniculate Nucleus (LGM)]].
